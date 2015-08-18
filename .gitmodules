@@ -1,0 +1,18 @@
+[submodule "almos-mk"]
+	path = almos-mk
+	url = git://github.com/walafc0/almos-mk.git
+[submodule "tsar"]
+	path = tsar
+	url = git://github.com/walafc0/tsar.git
+[submodule "soclib"]
+	path = soclib
+	url = git://github.com/walafc0/soclib.git
+[submodule "systemc"]
+	path = systemc
+	url = git://github.com/walafc0/systemc.git
+[submodule "systemcass"]
+	path = systemcass
+	url = git://github.com/walafc0/systemcass.git
+[submodule "giet-vm"]
+	path = giet-vm
+	url = git://github.com/walafc0/giet-vm.git
